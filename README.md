@@ -10,7 +10,7 @@ O objetivo deste trabalho é implementar uma versão do algortimo descrito na li
 
 Uso:
 
-javac N-Queens.java
-java N-Queens <numero de linhas e colunas (n x n)>
+javac NQueens.java
+java NQueens <numero de linhas e colunas (n x n)>
 
 
